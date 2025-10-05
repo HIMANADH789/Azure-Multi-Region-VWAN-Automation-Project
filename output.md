@@ -1,6 +1,6 @@
 ## OUTPUT (Project Demonstration) 
 
-### 1. Frontend-Backend Communication via Nginx
+### 1. Frontend Load Balancer Handling Client Requests
 <img width="1832" height="746" alt="image" src="https://github.com/user-attachments/assets/03173d98-4d53-4876-836c-47ee6be8c719" />
 
 
